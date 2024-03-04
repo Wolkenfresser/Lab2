@@ -9,7 +9,8 @@ int main() {
     ifstream file1("a.txt");
     ifstream file2("b.txt");
 
-    double num1, num2;
+    float num1;
+    float num2;
     double product = 1.0;
 
     if (file1.is_open() && file2.is_open()) {
