@@ -1,0 +1,3 @@
+Name;Price;Storage Period;Type;Release Date;Expiration Date
+Apple;1.5;7;Fruit;2022-10-01;10
+Milk;2;14;Dairy;2022-09-25;7
