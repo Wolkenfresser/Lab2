@@ -3,6 +3,7 @@
 #include <fstream>
 
 int main() {
+    setlocale(LC_ALL, "Russian");  
     std::ifstream inputFile("f.txt");
     std::ofstream outputFile("g.txt");
 
